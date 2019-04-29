@@ -1,0 +1,5 @@
+++ LOCAL POSITIONS AND ANGLES OF ALL CAMERAS IN SCENES ++
+
+- Garage Scene -
+Cam 1 -- Pos: (-13.6, 3.66, 8.9)    Angle: (6.63, 125.848, 0)
+Cam 2 -- Pos: (11.2, 0.95, -9.25)   Angle: (0, -46.53, 0) 
