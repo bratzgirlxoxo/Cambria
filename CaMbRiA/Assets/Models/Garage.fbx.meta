@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: e3026fa12ea6ca843b93486b603431be
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: alley
+    100002: BEET:Group26313
+    100004: car:pCube1
+    100006: car:pCube2
+    100008: car:pCylinder1
+    100010: car:pCylinder2
+    100012: car:pCylinder3
+    100014: car:pCylinder4
+    100016: carblocks
+    100018: carrot:Group1
+    100020: carrot:Group2
+    100022: carrot:Group3
+    100024: carrot:ZBrush_defualt_group
+    100026: carrotgroup
+    100028: carseat
+    100030: column
+    100032: convertible
+    100034: convertible2_pCube1
+    100036: convertible2_pCylinder1
+    100038: convertible2_pCylinder2
+    100040: convertible2_pTorus1
+    100042: convertible2_pTorus2
+    100044: convertible2_pTorus3
+    100046: convertible2_pTorus4
+    100048: entrance_ramp
+    100050: //RootNode
+    100052: garage
+    100054: Garage_UV:garage2:garageblock:polySurface1
+    100056: garage_walls
+    100058: garagebanister
+    100060: gate
+    100062: grille
+    100064: group10
+    100066: group2
+    100068: group3
+    100070: group4
+    100072: group4 1
+    100074: group5
+    100076: group5 1
+    100078: group6
+    100080: group6 1
+    100082: group7
+    100084: group7 1
+    100086: group8
+    100088: highway
+    100090: Lrailing
+    100092: lukascargrp
+    100094: lumpy_car
+    100096: morfobed
+    100098: Mushroom:ZBrush_defualt_group
+    100100: outdoorsq2
+    100102: ParkingGarageGate_pCube1
+    100104: ParkingGarageGate_pCube2
+    100106: ParkingGarageGate_pCube3
+    100108: pasted__Act1
+    100110: pasted__garage
+    100112: pasted__wire2
+    100114: pasted__wire2 1
+    100116: pasted__wire2 2
+    100118: pasted__wire2 3
+    100120: pasted__wire2 4
+    100122: pasted__wire2 5
+    100124: pasted__wire2 6
+    100126: pasted__wire2 7
+    100128: pasted__wire2 8
+    100130: pasted__wire2 9
+    100132: pasted__wire3
+    100134: pasted__wire3 1
+    100136: pasted__wire3 2
+    100138: pasted__wire3 3
+    100140: pasted__wire3 4
+    100142: pasted__wire3 5
+    100144: pasted__wire3 6
+    100146: pasted__wire3 7
+    100148: pasted__wire3 8
+    100150: pasted__wire3 9
+    100152: pasted__wires1
+    100154: pasted__wires1 1
+    100156: pasted__wires1 2
+    100158: pasted__wires1 3
+    100160: pasted__wires1 4
+    100162: pasted__wires1 5
+    100164: pasted__wires1 6
+    100166: pasted__wires1 7
+    100168: pasted__wires1 8
+    100170: pasted__wires1 9
+    100172: pCube10
+    100174: pCube11
+    100176: pCube12
+    100178: pCube13
+    100180: pCube14
+    100182: pCube15
+    100184: pCube16
+    100186: pCube2
+    100188: pCube3
+    100190: pCube4
+    100192: pCube5
+    100194: pCube6
+    100196: pCube7
+    100198: pCube8
+    100200: pCylinder1
+    100202: pCylinder6
+    100204: pepper_andrew:pDisc1
+    100206: pole
+    100208: pPlane3
+    100210: pTorus1
+    100212: ramp_grp
+    100214: Rrailing
+    100216: second_floor
+    100218: speed_bump
+    100220: storefacade:arch
+    100222: sun_placeholder
+    100224: transform6
+    100226: transform8
+    100228: vegetablegrp
+    100230: veggies
+    100232: wheels
+    100234: wire2
+    100236: wire3
+    100238: wires
+    100240: wires1
+    400000: alley
+    400002: BEET:Group26313
+    400004: car:pCube1
+    400006: car:pCube2
+    400008: car:pCylinder1
+    400010: car:pCylinder2
+    400012: car:pCylinder3
+    400014: car:pCylinder4
+    400016: carblocks
+    400018: carrot:Group1
+    400020: carrot:Group2
+    400022: carrot:Group3
+    400024: carrot:ZBrush_defualt_group
+    400026: carrotgroup
+    400028: carseat
+    400030: column
+    400032: convertible
+    400034: convertible2_pCube1
+    400036: convertible2_pCylinder1
+    400038: convertible2_pCylinder2
+    400040: convertible2_pTorus1
+    400042: convertible2_pTorus2
+    400044: convertible2_pTorus3
+    400046: convertible2_pTorus4
+    400048: entrance_ramp
+    400050: //RootNode
+    400052: garage
+    400054: Garage_UV:garage2:garageblock:polySurface1
+    400056: garage_walls
+    400058: garagebanister
+    400060: gate
+    400062: grille
+    400064: group10
+    400066: group2
+    400068: group3
+    400070: group4
+    400072: group4 1
+    400074: group5
+    400076: group5 1
+    400078: group6
+    400080: group6 1
+    400082: group7
+    400084: group7 1
+    400086: group8
+    400088: highway
+    400090: Lrailing
+    400092: lukascargrp
+    400094: lumpy_car
+    400096: morfobed
+    400098: Mushroom:ZBrush_defualt_group
+    400100: outdoorsq2
+    400102: ParkingGarageGate_pCube1
+    400104: ParkingGarageGate_pCube2
+    400106: ParkingGarageGate_pCube3
+    400108: pasted__Act1
+    400110: pasted__garage
+    400112: pasted__wire2
+    400114: pasted__wire2 1
+    400116: pasted__wire2 2
+    400118: pasted__wire2 3
+    400120: pasted__wire2 4
+    400122: pasted__wire2 5
+    400124: pasted__wire2 6
+    400126: pasted__wire2 7
+    400128: pasted__wire2 8
+    400130: pasted__wire2 9
+    400132: pasted__wire3
+    400134: pasted__wire3 1
+    400136: pasted__wire3 2
+    400138: pasted__wire3 3
+    400140: pasted__wire3 4
+    400142: pasted__wire3 5
+    400144: pasted__wire3 6
+    400146: pasted__wire3 7
+    400148: pasted__wire3 8
+    400150: pasted__wire3 9
+    400152: pasted__wires1
+    400154: pasted__wires1 1
+    400156: pasted__wires1 2
+    400158: pasted__wires1 3
+    400160: pasted__wires1 4
+    400162: pasted__wires1 5
+    400164: pasted__wires1 6
+    400166: pasted__wires1 7
+    400168: pasted__wires1 8
+    400170: pasted__wires1 9
+    400172: pCube10
+    400174: pCube11
+    400176: pCube12
+    400178: pCube13
+    400180: pCube14
+    400182: pCube15
+    400184: pCube16
+    400186: pCube2
+    400188: pCube3
+    400190: pCube4
+    400192: pCube5
+    400194: pCube6
+    400196: pCube7
+    400198: pCube8
+    400200: pCylinder1
+    400202: pCylinder6
+    400204: pepper_andrew:pDisc1
+    400206: pole
+    400208: pPlane3
+    400210: pTorus1
+    400212: ramp_grp
+    400214: Rrailing
+    400216: second_floor
+    400218: speed_bump
+    400220: storefacade:arch
+    400222: sun_placeholder
+    400224: transform6
+    400226: transform8
+    400228: vegetablegrp
+    400230: veggies
+    400232: wheels
+    400234: wire2
+    400236: wire3
+    400238: wires
+    400240: wires1
+    2100000: lambert1
+    2100002: aiStandardSurface2
+    2100004: lambert2
+    2100006: blinn2
+    2100008: aiStandardSurface3
+    2100010: aiStandardSurface4
+    2100012: aiStandardSurface5
+    2100014: garage2_garageblock_initialShadingGroup1
+    2100016: Garage_UV_garage2_garageblock_walls
+    2100018: Garage_UV_garage2_garageblock_floor
+    2100020: blinn1
+    2100022: phong1
+    2100024: sq3_initialShadingGroup1
+    2300000: BEET:Group26313
+    2300002: car:pCube1
+    2300004: car:pCube2
+    2300006: car:pCylinder1
+    2300008: car:pCylinder2
+    2300010: car:pCylinder3
+    2300012: car:pCylinder4
+    2300014: carrot:Group1
+    2300016: carrot:Group2
+    2300018: carrot:Group3
+    2300020: carrot:ZBrush_defualt_group
+    2300022: carseat
+    2300024: column
+    2300026: convertible2_pCube1
+    2300028: convertible2_pCylinder1
+    2300030: convertible2_pCylinder2
+    2300032: convertible2_pTorus1
+    2300034: convertible2_pTorus2
+    2300036: convertible2_pTorus3
+    2300038: convertible2_pTorus4
+    2300040: entrance_ramp
+    2300042: Garage_UV:garage2:garageblock:polySurface1
+    2300044: garage_walls
+    2300046: grille
+    2300048: highway
+    2300050: Lrailing
+    2300052: lumpy_car
+    2300054: morfobed
+    2300056: Mushroom:ZBrush_defualt_group
+    2300058: outdoorsq2
+    2300060: ParkingGarageGate_pCube1
+    2300062: ParkingGarageGate_pCube2
+    2300064: ParkingGarageGate_pCube3
+    2300066: pasted__wire2
+    2300068: pasted__wire2 1
+    2300070: pasted__wire2 2
+    2300072: pasted__wire2 3
+    2300074: pasted__wire2 4
+    2300076: pasted__wire2 5
+    2300078: pasted__wire2 6
+    2300080: pasted__wire2 7
+    2300082: pasted__wire2 8
+    2300084: pasted__wire2 9
+    2300086: pasted__wire3
+    2300088: pasted__wire3 1
+    2300090: pasted__wire3 2
+    2300092: pasted__wire3 3
+    2300094: pasted__wire3 4
+    2300096: pasted__wire3 5
+    2300098: pasted__wire3 6
+    2300100: pasted__wire3 7
+    2300102: pasted__wire3 8
+    2300104: pasted__wire3 9
+    2300106: pasted__wires1
+    2300108: pasted__wires1 1
+    2300110: pasted__wires1 2
+    2300112: pasted__wires1 3
+    2300114: pasted__wires1 4
+    2300116: pasted__wires1 5
+    2300118: pasted__wires1 6
+    2300120: pasted__wires1 7
+    2300122: pasted__wires1 8
+    2300124: pasted__wires1 9
+    2300126: pCube10
+    2300128: pCube11
+    2300130: pCube12
+    2300132: pCube13
+    2300134: pCube14
+    2300136: pCube15
+    2300138: pCube2
+    2300140: pCube3
+    2300142: pCube4
+    2300144: pCube5
+    2300146: pCube6
+    2300148: pCube7
+    2300150: pCube8
+    2300152: pCylinder1
+    2300154: pCylinder6
+    2300156: pepper_andrew:pDisc1
+    2300158: pole
+    2300160: pPlane3
+    2300162: pTorus1
+    2300164: Rrailing
+    2300166: second_floor
+    2300168: speed_bump
+    2300170: storefacade:arch
+    2300172: sun_placeholder
+    2300174: transform8
+    2300176: wire2
+    2300178: wire3
+    2300180: wires1
+    3300000: BEET:Group26313
+    3300002: car:pCube1
+    3300004: car:pCube2
+    3300006: car:pCylinder1
+    3300008: car:pCylinder2
+    3300010: car:pCylinder3
+    3300012: car:pCylinder4
+    3300014: carrot:Group1
+    3300016: carrot:Group2
+    3300018: carrot:Group3
+    3300020: carrot:ZBrush_defualt_group
+    3300022: carseat
+    3300024: column
+    3300026: convertible2_pCube1
+    3300028: convertible2_pCylinder1
+    3300030: convertible2_pCylinder2
+    3300032: convertible2_pTorus1
+    3300034: convertible2_pTorus2
+    3300036: convertible2_pTorus3
+    3300038: convertible2_pTorus4
+    3300040: entrance_ramp
+    3300042: Garage_UV:garage2:garageblock:polySurface1
+    3300044: garage_walls
+    3300046: grille
+    3300048: highway
+    3300050: Lrailing
+    3300052: lumpy_car
+    3300054: morfobed
+    3300056: Mushroom:ZBrush_defualt_group
+    3300058: outdoorsq2
+    3300060: ParkingGarageGate_pCube1
+    3300062: ParkingGarageGate_pCube2
+    3300064: ParkingGarageGate_pCube3
+    3300066: pasted__wire2
+    3300068: pasted__wire2 1
+    3300070: pasted__wire2 2
+    3300072: pasted__wire2 3
+    3300074: pasted__wire2 4
+    3300076: pasted__wire2 5
+    3300078: pasted__wire2 6
+    3300080: pasted__wire2 7
+    3300082: pasted__wire2 8
+    3300084: pasted__wire2 9
+    3300086: pasted__wire3
+    3300088: pasted__wire3 1
+    3300090: pasted__wire3 2
+    3300092: pasted__wire3 3
+    3300094: pasted__wire3 4
+    3300096: pasted__wire3 5
+    3300098: pasted__wire3 6
+    3300100: pasted__wire3 7
+    3300102: pasted__wire3 8
+    3300104: pasted__wire3 9
+    3300106: pasted__wires1
+    3300108: pasted__wires1 1
+    3300110: pasted__wires1 2
+    3300112: pasted__wires1 3
+    3300114: pasted__wires1 4
+    3300116: pasted__wires1 5
+    3300118: pasted__wires1 6
+    3300120: pasted__wires1 7
+    3300122: pasted__wires1 8
+    3300124: pasted__wires1 9
+    3300126: pCube10
+    3300128: pCube11
+    3300130: pCube12
+    3300132: pCube13
+    3300134: pCube14
+    3300136: pCube15
+    3300138: pCube2
+    3300140: pCube3
+    3300142: pCube4
+    3300144: pCube5
+    3300146: pCube6
+    3300148: pCube7
+    3300150: pCube8
+    3300152: pCylinder1
+    3300154: pCylinder6
+    3300156: pepper_andrew:pDisc1
+    3300158: pole
+    3300160: pPlane3
+    3300162: pTorus1
+    3300164: Rrailing
+    3300166: second_floor
+    3300168: speed_bump
+    3300170: storefacade:arch
+    3300172: sun_placeholder
+    3300174: transform8
+    3300176: wire2
+    3300178: wire3
+    3300180: wires1
+    4300000: pole
+    4300002: wires1
+    4300004: wire2
+    4300006: wire3
+    4300008: pasted__wires1
+    4300010: pasted__wire2
+    4300012: pasted__wire3
+    4300014: pasted__wires1
+    4300016: pasted__wire2
+    4300018: pasted__wire3
+    4300020: pasted__wires1
+    4300022: pasted__wire2
+    4300024: pasted__wire3
+    4300026: pasted__wires1
+    4300028: pasted__wire2
+    4300030: pasted__wire3
+    4300032: pasted__wires1
+    4300034: pasted__wire2
+    4300036: pasted__wire3
+    4300038: pasted__wires1
+    4300040: pasted__wire2
+    4300042: pasted__wire3
+    4300044: pasted__wires1
+    4300046: pasted__wire2
+    4300048: pasted__wire3
+    4300050: pasted__wires1
+    4300052: pasted__wire2
+    4300054: pasted__wire3
+    4300056: pasted__wires1
+    4300058: pasted__wire2
+    4300060: pasted__wire3
+    4300062: pasted__wires1
+    4300064: pasted__wire2
+    4300066: pasted__wire3
+    4300068: column
+    4300070: lumpy_car
+    4300072: convertible2_pCube1
+    4300074: convertible2_pCylinder1
+    4300076: convertible2_pCylinder2
+    4300078: convertible2_pTorus4
+    4300080: convertible2_pTorus3
+    4300082: convertible2_pTorus2
+    4300084: convertible2_pTorus1
+    4300086: pTorus1
+    4300088: morfobed
+    4300090: carseat
+    4300092: grille
+    4300094: ParkingGarageGate_pCube1
+    4300096: ParkingGarageGate_pCube2
+    4300098: ParkingGarageGate_pCube3
+    4300100: garage_walls
+    4300102: Garage_UV:garage2:garageblock:polySurface1
+    4300104: pCylinder6
+    4300106: pCube2
+    4300108: pCube3
+    4300110: pCube4
+    4300112: pCube5
+    4300114: pCube10
+    4300116: pCube11
+    4300118: pCube12
+    4300120: pCube13
+    4300122: pCube14
+    4300124: pCube15
+    4300126: transform8
+    4300128: pCube6
+    4300130: pCube7
+    4300132: pCube8
+    4300134: pepper_andrew:pDisc1
+    4300136: Mushroom:ZBrush_defualt_group
+    4300138: BEET:Group26313
+    4300140: carrot:ZBrush_defualt_group
+    4300142: carrot:Group1
+    4300144: carrot:Group2
+    4300146: carrot:Group3
+    4300148: car:pCube1
+    4300150: car:pCube2
+    4300152: car:pCylinder2
+    4300154: car:pCylinder3
+    4300156: car:pCylinder4
+    4300158: car:pCylinder1
+    4300160: speed_bump
+    4300162: second_floor
+    4300164: outdoorsq2
+    4300166: entrance_ramp
+    4300168: pPlane3
+    4300170: storefacade:arch
+    4300172: highway
+    4300174: sun_placeholder
+    4300176: Rrailing
+    4300178: Lrailing
+    4300180: pCylinder1
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
